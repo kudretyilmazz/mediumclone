@@ -1,0 +1,21 @@
+.nav-bg{
+    background-color: #FFC017; border-bottom: 1px solid #414141;
+}
+body {
+    font-family: 'PT Serif', serif;
+}
+.header-heading{
+    font-size: 70px;
+}
+.logo{
+    height: 45px;
+}
+.navpad{
+    padding: 10px;
+}
+.font-sizesm{
+    font-size: 12px;
+}
+.btn-textc:hover{
+    color: #000;
+}
